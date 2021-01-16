@@ -1,4 +1,4 @@
-# Binary Tree Inorder Traversal
+# Decode Ways
 
 A message containing letters from ```A-Z``` can be <b>encoded</b> into numbers using the following mapping:
 
