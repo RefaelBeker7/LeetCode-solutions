@@ -5,7 +5,7 @@ Given the ```root``` of a binary tree, return the inorder traversal of its nodes
 
  
 
-Example 1:
+Example 1: <br/>
 ![screenshop application](https://github.com/RefaelBeker7/C-Challenge-LeetCode/blob/main/Binary%20Tree%20Inorder%20Traversal/inorder_1.jpg)
 ```
 Input: root = [1,null,2,3]
@@ -41,5 +41,6 @@ Constraints:
 
 Screenshot-Solution
 ---
-![screenshop application](https://github.com/RefaelBeker7/vanilla-gallery/blob/main/screenshot/screenshot_app.png)
+![screenshop application](https://github.com/RefaelBeker7/C-Challenge-LeetCode/blob/main/Binary%20Tree%20Inorder%20Traversal/Screenshot2.png)
+![screenshop application](https://github.com/RefaelBeker7/C-Challenge-LeetCode/blob/main/Binary%20Tree%20Inorder%20Traversal/Screenshot.png)
 
