@@ -25,6 +25,10 @@ Table of Content
 | 468 | Validate IP Address | Medium | [problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
 
 
+License
+---
+MIT [@RefaelBeker](https://github.com/RefaelBeker7)
+
 
 
 
