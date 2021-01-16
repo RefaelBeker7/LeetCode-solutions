@@ -11,7 +11,7 @@ This repo is just a place where I put up my solutions for reference purposes and
 
 Table of Content
 ---
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+
 | # | Title | Difficulty | problems-link | Solutions |
 | :---: | :---: | :---: | :---: | :---: |
 | 94 | Binary Tree Inorder Traversal | Medium | [problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Binary%20Tree%20Inorder%20Traversal) |
