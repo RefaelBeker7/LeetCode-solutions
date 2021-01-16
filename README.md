@@ -1,3 +1,4 @@
+markdown: kramdown
 # C-Challenge-LeetCode
 ###
 LeetCode solutions in c language. Solve problems from Leetcode. All the codes are tested using online-judge. <br/><br/>
