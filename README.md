@@ -12,7 +12,7 @@ This repo is just a place where I put up my solutions for reference purposes and
 Table of Content
 ---
 
-| # | Title | Difficulty | Tag | Solutions |
+| # | Title | Difficulty | problems-link | Solutions |
 | :---: | :---: | :---: | :---: | :---: |
-| 468 | Validate IP Address | Medium |  | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
-| 468 | Validate IP Address | Medium |  | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
+| 468 | Validate IP Address | Medium | [problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
+| 36 | Valid Sudoku | Medium | [problem](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
