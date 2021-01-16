@@ -14,4 +14,5 @@ Table of Content
 
 | # | Title | Difficulty | Tag | Solutions |
 | :---: | :---: | :---: | :---: | :---: |
-| 468 | Validate IP Address | Medium |  | [@RefaelBeker](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
+| 468 | Validate IP Address | Medium |  | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
+| 468 | Validate IP Address | Medium |  | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
