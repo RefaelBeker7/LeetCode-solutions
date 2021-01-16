@@ -7,4 +7,4 @@ LeetCode solutions in c language. Solve problems from Leetcode. All the codes ar
 What's the purpose of this repository?
 ---
 This repo is just a place where I put up my solutions for reference purposes and so I thought it might be nice to make it a place that everyone can refer to.
-
+> Note: No outside libraries or compiler extensions/intrinsics are allowed unless explicitly stated.
