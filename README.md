@@ -14,7 +14,7 @@ Table of Content
 
 | # | Title | Difficulty | problems-link | Solutions |
 | :---: | :---: | :---: | :---: | :---: |
-| 94 | Binary Tree Inorder Traversal | Medium | [problem](https://leetcode.com/problems/binary-tree-inorder-traversal/){:target="_blank" rel="noopener"} | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Binary%20Tree%20Inorder%20Traversal){:target="_blank" rel="noopener"} |
+| 94 | Binary Tree Inorder Traversal | Medium | [problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Binary%20Tree%20Inorder%20Traversal){:target="_blank"} |
 | 91 | Decode Ways | Medium | [problem](https://leetcode.com/problems/decode-ways/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Decode%20Ways) |
 | 707 | Design Linked List | Medium | [problem](https://leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Design%20Linked%20List) |
 | 29 | Divide Two Integers | Medium | [problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Divide%20Two%20Integers) |
