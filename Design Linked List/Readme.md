@@ -9,9 +9,9 @@ Implement the ```MyLinkedList``` class:
 - ```MyLinkedList()``` Initializes the ```MyLinkedList``` object.
 - ```int get(int index)``` Get the value of the ```indexth``` node in the linked list. If the index is invalid, return ```-1```.
 - ```void addAtHead(int val)``` Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list.
-- ```void addAtTail(int val)``` Append a node of value val as the last element of the linked list.
-- ```void addAtIndex(int index, int val)``` Add a node of value val before the indexth node in the linked list. If index equals the length of the linked list, the node will be appended to the end of the linked list. If index is greater than the length, the node <b>will not be inserted</b>.
-- ```void deleteAtIndex(int index)``` Delete the indexth node in the linked list, if the index is valid.
+- ```void addAtTail(int val)``` Append a node of value ```val``` as the last element of the linked list.
+- ```void addAtIndex(int index, int val)``` Add a node of value ```val``` before the ```indexth``` node in the linked list. If index equals the length of the linked list, the node will be appended to the end of the linked list. If index is greater than the length, the node <b>will not be inserted</b>.
+- ```void deleteAtIndex(int index)``` Delete the ```indexth``` node in the linked list, if the index is valid.
  
 
 Example 1:
@@ -30,17 +30,16 @@ myLinkedList.addAtIndex(1, 2);    // linked list becomes 1->2->3
 myLinkedList.get(1);              // return 2
 myLinkedList.deleteAtIndex(1);    // now the linked list is 1->3
 myLinkedList.get(1);              // return 3
- 
+```
 
 Constraints:
 
-0 <= index, val <= 1000
-Please do not use the built-in LinkedList library.
-At most 2000 calls will be made to get, addAtHead, addAtTail,  addAtIndex and deleteAtIndex.
+- ```0 <= index, val <= 1000```
+- Please do not use the built-in LinkedList library.
+- At most ```2000``` calls will be made to ```get```, ```addAtHead```, ```addAtTail```,  ```addAtIndex``` and ```deleteAtIndex```.
 
 
 Screenshot-Solution
 ---
-![screenshop application](https://github.com/RefaelBeker7/C-Challenge-LeetCode/blob/main/Binary%20Tree%20Inorder%20Traversal/Screenshot2.png)
-![screenshop application](https://github.com/RefaelBeker7/C-Challenge-LeetCode/blob/main/Binary%20Tree%20Inorder%20Traversal/Screenshot.png)
+![screenshop application](https://github.com/RefaelBeker7/C-Challenge-LeetCode/blob/main/Design%20Linked%20List/Screenshot.png)
 
