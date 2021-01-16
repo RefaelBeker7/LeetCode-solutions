@@ -11,6 +11,6 @@ This repo is just a place where I put up my solutions for reference purposes and
 
 Table of Content
 ---
-| Attempt | #1  | #2  |
+| # |  Title  |  Difficulty  |  Tag  |
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
