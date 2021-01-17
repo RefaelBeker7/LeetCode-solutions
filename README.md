@@ -27,7 +27,7 @@ Table of Content
 
 License
 ---
-[MIT](https://choosealicense.com/licenses/mit/) [@RefaelBeker](https://github.com/RefaelBeker7)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
