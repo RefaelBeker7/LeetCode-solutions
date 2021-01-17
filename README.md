@@ -12,8 +12,8 @@ This repo is just a place where I put up my solutions for reference purposes and
 Table of Content
 ---
 
-| # | Title | Difficulty | leetcode-problems | Solutions |
-| :---: | :---: | :---: | :---: | :---: |
+| # | Title | Difficulty | leetcode-problems | Solutions | programming languages |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 94 | Binary Tree Inorder Traversal | Medium | [problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Binary%20Tree%20Inorder%20Traversal) |
 | 91 | Decode Ways | Medium | [problem](https://leetcode.com/problems/decode-ways/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Decode%20Ways) |
 | 707 | Design Linked List | Medium | [problem](https://leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Design%20Linked%20List) |
