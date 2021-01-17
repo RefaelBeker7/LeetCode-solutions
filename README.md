@@ -14,15 +14,15 @@ Table of Content
 
 | # | Title | Difficulty | leetcode-problems | Solutions | programming languages |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 94 | Binary Tree Inorder Traversal | Medium | [problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Binary%20Tree%20Inorder%20Traversal) |
-| 91 | Decode Ways | Medium | [problem](https://leetcode.com/problems/decode-ways/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Decode%20Ways) |
-| 707 | Design Linked List | Medium | [problem](https://leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Design%20Linked%20List) |
-| 29 | Divide Two Integers | Medium | [problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Divide%20Two%20Integers) |
-| 151 | Reverse Words in a String | Medium | [problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Reverse%20Words%20in%20a%20String) |
-| 8 | String to Integer (atoi) | Medium | [problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/String%20to%20Integer%20(atoi)) |
-| 692 | Top K Frequent Words | Medium | [problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Top%20K%20Frequent%20Words) |
-| 36 | Valid Sudoku | Medium | [problem](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Valid%20Sudoku) |
-| 468 | Validate IP Address | Medium | [problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) |
+| 94 | Binary Tree Inorder Traversal | Medium | [problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Binary%20Tree%20Inorder%20Traversal) | C |
+| 91 | Decode Ways | Medium | [problem](https://leetcode.com/problems/decode-ways/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Decode%20Ways) | C |
+| 707 | Design Linked List | Medium | [problem](https://leetcode.com/problems/design-linked-list/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Design%20Linked%20List) | C |
+| 29 | Divide Two Integers | Medium | [problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Divide%20Two%20Integers) | C |
+| 151 | Reverse Words in a String | Medium | [problem](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Reverse%20Words%20in%20a%20String) | C |
+| 8 | String to Integer (atoi) | Medium | [problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/String%20to%20Integer%20(atoi)) | C |
+| 692 | Top K Frequent Words | Medium | [problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Top%20K%20Frequent%20Words) | C |
+| 36 | Valid Sudoku | Medium | [problem](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Valid%20Sudoku) | C |
+| 468 | Validate IP Address | Medium | [problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](https://github.com/RefaelBeker7/C-Challenge-LeetCode/tree/main/Validate%20IP%20Address) | C |
 
 
 License
